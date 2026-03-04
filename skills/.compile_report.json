@@ -1,0 +1,376 @@
+{
+  "compile_memory_path": "skills/.evidence/memory.md",
+  "compiled_package_id": "strawberryfields",
+  "evidence": {
+    "core_skills": [
+      "strawberryfields-code",
+      "strawberryfields-getting-started",
+      "strawberryfields-templates",
+      "strawberryfields-examples-and-tutorials",
+      "strawberryfields-build-and-install",
+      "strawberryfields-api-and-scripting"
+    ],
+    "evidence_dir": "skills/.evidence",
+    "files": [
+      "skills/.evidence/strawberryfields-code.md",
+      "skills/.evidence/strawberryfields-getting-started.md",
+      "skills/.evidence/strawberryfields-templates.md",
+      "skills/.evidence/strawberryfields-examples-and-tutorials.md",
+      "skills/.evidence/strawberryfields-build-and-install.md",
+      "skills/.evidence/strawberryfields-api-and-scripting.md"
+    ]
+  },
+  "generation": {
+    "docs_only": false,
+    "generator_script": "sci-skills-generator/scripts/generate_skills_folder.py",
+    "max_skills": 30,
+    "return_code": 0,
+    "status": "ok"
+  },
+  "mode": "compile",
+  "pass_scope_diffs": {
+    "pass_2": {
+      "added": [
+        "skills/.evidence/memory.md",
+        "skills/strawberryfields-advanced-topics/SKILL.md",
+        "skills/strawberryfields-advanced-topics/references/doc_map.md",
+        "skills/strawberryfields-advanced-topics/references/source_map.md"
+      ],
+      "changed": [
+        "skills/.evidence/memory.md",
+        "skills/strawberryfields-advanced-topics/SKILL.md",
+        "skills/strawberryfields-advanced-topics/references/doc_map.md",
+        "skills/strawberryfields-advanced-topics/references/source_map.md",
+        "skills/strawberryfields-api-and-scripting/SKILL.md",
+        "skills/strawberryfields-build-and-install/SKILL.md",
+        "skills/strawberryfields-code/SKILL.md",
+        "skills/strawberryfields-examples-and-tutorials/SKILL.md",
+        "skills/strawberryfields-general/SKILL.md",
+        "skills/strawberryfields-general/references/doc_map.md",
+        "skills/strawberryfields-general/references/source_map.md",
+        "skills/strawberryfields-getting-started/SKILL.md",
+        "skills/strawberryfields-index/SKILL.md",
+        "skills/strawberryfields-requirements/SKILL.md",
+        "skills/strawberryfields-requirements/references/doc_map.md",
+        "skills/strawberryfields-requirements/references/source_map.md",
+        "skills/strawberryfields-templates/SKILL.md",
+        "skills/strawberryfields-zreferences/SKILL.md",
+        "skills/strawberryfields-zreferences/references/doc_map.md",
+        "skills/strawberryfields-zreferences/references/source_map.md"
+      ],
+      "deleted": [
+        "skills/strawberryfields-general/SKILL.md",
+        "skills/strawberryfields-general/references/doc_map.md",
+        "skills/strawberryfields-general/references/source_map.md",
+        "skills/strawberryfields-requirements/SKILL.md",
+        "skills/strawberryfields-requirements/references/doc_map.md",
+        "skills/strawberryfields-requirements/references/source_map.md",
+        "skills/strawberryfields-zreferences/SKILL.md",
+        "skills/strawberryfields-zreferences/references/doc_map.md",
+        "skills/strawberryfields-zreferences/references/source_map.md"
+      ],
+      "modified": [
+        "skills/strawberryfields-api-and-scripting/SKILL.md",
+        "skills/strawberryfields-build-and-install/SKILL.md",
+        "skills/strawberryfields-code/SKILL.md",
+        "skills/strawberryfields-examples-and-tutorials/SKILL.md",
+        "skills/strawberryfields-getting-started/SKILL.md",
+        "skills/strawberryfields-index/SKILL.md",
+        "skills/strawberryfields-templates/SKILL.md"
+      ]
+    },
+    "pass_3": {
+      "added": [
+        "skills/.compile_report.json",
+        "skills/strawberryfields-index/references/doc_map.md",
+        "skills/strawberryfields-index/references/source_map.md"
+      ],
+      "changed": [
+        "skills/.compile_report.json",
+        "skills/.evidence/memory.md",
+        "skills/strawberryfields-advanced-topics/SKILL.md",
+        "skills/strawberryfields-advanced-topics/references/doc_map.md",
+        "skills/strawberryfields-advanced-topics/references/source_map.md",
+        "skills/strawberryfields-analysis-and-output/SKILL.md",
+        "skills/strawberryfields-analysis-and-output/references/doc_map.md",
+        "skills/strawberryfields-analysis-and-output/references/source_map.md",
+        "skills/strawberryfields-api-and-scripting/SKILL.md",
+        "skills/strawberryfields-api-and-scripting/references/doc_map.md",
+        "skills/strawberryfields-api-and-scripting/references/source_map.md",
+        "skills/strawberryfields-build-and-install/references/doc_map.md",
+        "skills/strawberryfields-build-and-install/references/source_map.md",
+        "skills/strawberryfields-code/SKILL.md",
+        "skills/strawberryfields-code/references/doc_map.md",
+        "skills/strawberryfields-code/references/source_map.md",
+        "skills/strawberryfields-developer-guide/SKILL.md",
+        "skills/strawberryfields-developer-guide/references/doc_map.md",
+        "skills/strawberryfields-developer-guide/references/source_map.md",
+        "skills/strawberryfields-examples-and-tutorials/references/doc_map.md",
+        "skills/strawberryfields-examples-and-tutorials/references/source_map.md",
+        "skills/strawberryfields-getting-started/references/doc_map.md",
+        "skills/strawberryfields-getting-started/references/source_map.md",
+        "skills/strawberryfields-index/SKILL.md",
+        "skills/strawberryfields-index/references/doc_map.md",
+        "skills/strawberryfields-index/references/source_map.md",
+        "skills/strawberryfields-templates/references/doc_map.md",
+        "skills/strawberryfields-templates/references/source_map.md"
+      ],
+      "deleted": [],
+      "modified": [
+        "skills/.evidence/memory.md",
+        "skills/strawberryfields-advanced-topics/SKILL.md",
+        "skills/strawberryfields-advanced-topics/references/doc_map.md",
+        "skills/strawberryfields-advanced-topics/references/source_map.md",
+        "skills/strawberryfields-analysis-and-output/SKILL.md",
+        "skills/strawberryfields-analysis-and-output/references/doc_map.md",
+        "skills/strawberryfields-analysis-and-output/references/source_map.md",
+        "skills/strawberryfields-api-and-scripting/SKILL.md",
+        "skills/strawberryfields-api-and-scripting/references/doc_map.md",
+        "skills/strawberryfields-api-and-scripting/references/source_map.md",
+        "skills/strawberryfields-build-and-install/references/doc_map.md",
+        "skills/strawberryfields-build-and-install/references/source_map.md",
+        "skills/strawberryfields-code/SKILL.md",
+        "skills/strawberryfields-code/references/doc_map.md",
+        "skills/strawberryfields-code/references/source_map.md",
+        "skills/strawberryfields-developer-guide/SKILL.md",
+        "skills/strawberryfields-developer-guide/references/doc_map.md",
+        "skills/strawberryfields-developer-guide/references/source_map.md",
+        "skills/strawberryfields-examples-and-tutorials/references/doc_map.md",
+        "skills/strawberryfields-examples-and-tutorials/references/source_map.md",
+        "skills/strawberryfields-getting-started/references/doc_map.md",
+        "skills/strawberryfields-getting-started/references/source_map.md",
+        "skills/strawberryfields-index/SKILL.md",
+        "skills/strawberryfields-templates/references/doc_map.md",
+        "skills/strawberryfields-templates/references/source_map.md"
+      ]
+    }
+  },
+  "passes": [
+    {
+      "pass": 1,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 2,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 3,
+      "return_code": 0,
+      "status": "ok"
+    }
+  ],
+  "profile": {
+    "docs_dirs": [
+      "doc"
+    ],
+    "docs_only": false,
+    "notes": [
+      "Primary docs root is doc/ (not docs/).",
+      "Use --source-dirs strawberryfields for deterministic source mapping; default auto-discovery yields no source root for this layout.",
+      "sci-skills-generator/scripts/generate_skills_folder.py was minimally patched to fix f-string newline rendering syntax errors."
+    ],
+    "package_name": "strawberryfields",
+    "profile_path": "skills/.compile_profile.json",
+    "profile_source": "file",
+    "source_dirs": [
+      "strawberryfields"
+    ],
+    "test_dirs": [
+      "tests"
+    ],
+    "tutorial_dirs": [
+      "examples"
+    ],
+    "warnings": []
+  },
+  "project_root": "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/strawberryfields-strawberryfields",
+  "run_id": "compile_20260304T153208416841Z",
+  "skill_plan": {
+    "available_skill_ids": [
+      "strawberryfields-analysis-and-output",
+      "strawberryfields-api-and-scripting",
+      "strawberryfields-build-and-install",
+      "strawberryfields-code",
+      "strawberryfields-developer-guide",
+      "strawberryfields-examples-and-tutorials",
+      "strawberryfields-general",
+      "strawberryfields-getting-started",
+      "strawberryfields-index",
+      "strawberryfields-requirements",
+      "strawberryfields-templates",
+      "strawberryfields-zreferences"
+    ],
+    "core_skill_ids": [
+      "strawberryfields-code",
+      "strawberryfields-getting-started",
+      "strawberryfields-templates",
+      "strawberryfields-examples-and-tutorials",
+      "strawberryfields-build-and-install",
+      "strawberryfields-api-and-scripting"
+    ],
+    "deferred_gaps": [
+      "Dry-run produced low-signal one-doc topics (e.g., zreferences, requirements); consider consolidating into an advanced-topics skill in pass 3.",
+      "Review whether doc/_templates content should be excluded or down-prioritized from user-facing routing skills.",
+      "Evaluate whether Strawberry Fields apps workflows need a dedicated topic skill beyond generic API coverage."
+    ],
+    "goal": "Generate deterministic docs-first skills, enrich core Strawberry Fields workflows, and audit routing quality.",
+    "mode": "compile",
+    "priority_skills": [
+      {
+        "action": "create",
+        "must_cover": [
+          "Request triage by user intent",
+          "Docs-first escalation order",
+          "Explicit routing to core topic skills"
+        ],
+        "reason": "All downstream responses depend on reliable routing from index to topic skills.",
+        "skill_id": "strawberryfields-index",
+        "source_hints": [
+          "doc/index.rst",
+          "README.md",
+          "skills/.compile_profile.json"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Install + quickstart path",
+          "Basic program/engine run loop",
+          "Minimal validated examples"
+        ],
+        "reason": "Onboarding and first runnable circuits are common first-week questions.",
+        "skill_id": "strawberryfields-getting-started",
+        "source_hints": [
+          "doc/introduction/introduction.rst",
+          "doc/install.rst",
+          "examples/teleportation.py",
+          "strawberryfields/program.py",
+          "strawberryfields/engine.py"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Supported install routes",
+          "Dependency constraints",
+          "Validation commands and common install failures"
+        ],
+        "reason": "Environment and dependency issues are high-frequency blockers.",
+        "skill_id": "strawberryfields-build-and-install",
+        "source_hints": [
+          "doc/install.rst",
+          "requirements.txt",
+          "requirements-dev.txt",
+          "setup.py"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Program/Operation/Parameter mental model",
+          "Backend selection and run semantics",
+          "Core API entry points and symbol lookup strategy"
+        ],
+        "reason": "Most user requests center on Python API usage, operations, and parameters.",
+        "skill_id": "strawberryfields-api-and-scripting",
+        "source_hints": [
+          "doc/code/sf_program.rst",
+          "doc/code/sf_ops.rst",
+          "doc/code/sf_engine.rst",
+          "strawberryfields/ops.py",
+          "strawberryfields/parameters.py"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Curated minimal runnable examples",
+          "When to choose Gaussian/Fock/Bosonic examples",
+          "How to adapt examples safely"
+        ],
+        "reason": "Executable examples provide the fastest path to trustworthy, reusable answers.",
+        "skill_id": "strawberryfields-examples-and-tutorials",
+        "source_hints": [
+          "examples/",
+          "doc/introduction/circuits.rst",
+          "doc/introduction/ops.rst",
+          "tests/integration/test_engine_integration.py"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Result object usage",
+          "State/measurement inspection paths",
+          "Output validation against tests"
+        ],
+        "reason": "Result interpretation and post-processing are common correctness bottlenecks.",
+        "skill_id": "strawberryfields-analysis-and-output",
+        "source_hints": [
+          "doc/introduction/data.rst",
+          "doc/code/sf_utils.rst",
+          "strawberryfields/result.py",
+          "strawberryfields/utils/post_processing.py",
+          "tests/frontend/test_post_processing.py"
+        ]
+      },
+      {
+        "action": "audit",
+        "must_cover": [
+          "Contribution and architecture entry points",
+          "Compiler/backend extension hooks",
+          "Debug/troubleshooting references"
+        ],
+        "reason": "Pass 3 should verify extension and contribution guidance remains routed and non-duplicative.",
+        "skill_id": "strawberryfields-developer-guide",
+        "source_hints": [
+          "doc/development/development_guide.rst",
+          "doc/development/research.rst",
+          "strawberryfields/compilers/",
+          "strawberryfields/backends/"
+        ]
+      }
+    ],
+    "version": 1,
+    "warnings": []
+  },
+  "skill_plan_path": "skills/.evidence/skill_plan.json",
+  "validation": {
+    "core_skills_checked": [
+      "strawberryfields-templates",
+      "strawberryfields-getting-started",
+      "strawberryfields-examples-and-tutorials",
+      "strawberryfields-developer-guide",
+      "strawberryfields-code",
+      "strawberryfields-build-and-install"
+    ],
+    "docs_only": false,
+    "errors": [
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/strawberryfields-strawberryfields/skills/strawberryfields-developer-guide/SKILL.md: playbook missing required element containing 'minimal working example'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/strawberryfields-strawberryfields/skills/strawberryfields-developer-guide/SKILL.md: playbook missing required element containing 'convergence/validation'."
+    ],
+    "index_skills": [
+      "strawberryfields-index"
+    ],
+    "missing_planned_skills": [],
+    "ok": false,
+    "planned_skill_ids": [
+      "strawberryfields-index",
+      "strawberryfields-getting-started",
+      "strawberryfields-build-and-install",
+      "strawberryfields-api-and-scripting",
+      "strawberryfields-examples-and-tutorials",
+      "strawberryfields-analysis-and-output",
+      "strawberryfields-developer-guide"
+    ],
+    "previous_source_inventory": {},
+    "skills_total": 10,
+    "source_inventory": {},
+    "source_links_total": 97,
+    "topic_skills": 9,
+    "warnings": []
+  }
+}
